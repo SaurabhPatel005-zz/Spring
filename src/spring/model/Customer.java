@@ -3,6 +3,8 @@ package spring.model;
 /**
  * Created by SAM on 12/27/2015.
  */
+
+//hello from a
 public class Customer {
     private String firstName;
     private String lastName;
